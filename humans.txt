@@ -1,0 +1,17 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  <Team><PlaneImages>
+  Site:http://planeimages.net
+  Twitter:https://twitter.com/PlaneImages_net
+  Location:
+
+/* THANKS */
+  Names (& URL):https://github.com/h5bp/html5-boilerplate
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software:
